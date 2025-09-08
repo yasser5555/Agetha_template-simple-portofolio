@@ -5,6 +5,7 @@ import {
   Route,
   RouterProvider,
   createRoutesFromElements,
+  createHashRouter,
 } from "react-router-dom";
 import Layout from "../components/layout/Layout";
 import Home from "../pages/Home/Home";
@@ -13,7 +14,7 @@ import Contact from "../pages/Contact/Contact";
 import Services from "../pages/Services/Services";
 
 // ! Step-2:Create variables to contain Routes
-const Navigators = createBrowserRouter(
+const Navigators = createHashRouter(
   createRoutesFromElements(
     <Route path="/" element={<Layout />}>
       <Route index element={<Home />} />
