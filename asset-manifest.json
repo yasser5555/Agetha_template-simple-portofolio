@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Agetha_template-simple-portofolio/static/css/main.11f70241.css",
-    "main.js": "/Agetha_template-simple-portofolio/static/js/main.19994e2a.js",
+    "main.js": "/Agetha_template-simple-portofolio/static/js/main.9abc73e3.js",
     "static/media/HomeP.png": "/Agetha_template-simple-portofolio/static/media/HomeP.96fb0685f12aca44a33e.png",
     "static/media/fa-solid-900.ttf": "/Agetha_template-simple-portofolio/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/Agetha_template-simple-portofolio/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -14,10 +14,10 @@
     "static/media/fa-v4compatibility.woff2": "/Agetha_template-simple-portofolio/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Agetha_template-simple-portofolio/index.html",
     "main.11f70241.css.map": "/Agetha_template-simple-portofolio/static/css/main.11f70241.css.map",
-    "main.19994e2a.js.map": "/Agetha_template-simple-portofolio/static/js/main.19994e2a.js.map"
+    "main.9abc73e3.js.map": "/Agetha_template-simple-portofolio/static/js/main.9abc73e3.js.map"
   },
   "entrypoints": [
     "static/css/main.11f70241.css",
-    "static/js/main.19994e2a.js"
+    "static/js/main.9abc73e3.js"
   ]
 }
